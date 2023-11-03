@@ -1,0 +1,15 @@
+{
+  "name": "@jw/env.config",
+  "version": "1.0.0",
+  "description": "basic env.config functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YSidorka/jw-env.config.git"
+  },
+  "keywords": [
+    "env.config"
+  ],
+  "author": "YSidorka",
+  "license": "MIT"
+}
